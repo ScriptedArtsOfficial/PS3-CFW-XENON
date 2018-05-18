@@ -1,4 +1,4 @@
-# PS3-CFW-XENON
+# PS3-CFW-XENON - Located at; https://drive.google.com/open?id=1LXZmbSr5WaTfSXGUIdZ-z6Y0HlZIZwFZ
 This is a Custom Firmware for the Playstation 3 that I am working on currently, it is in alpha stage (It is a full CFW but currently 
 resides as a CEX only with rogero patterns. 
 
@@ -47,9 +47,8 @@ Remove CINAVIA Copy Protection on HDD Content
 
 Re-enable GAMEBOOT sound and animation on 3.00+ MFW
   Patch game_ext_plugin.sprx to re-enable gameboot
-
-Enable FSELFs on CEX CFW / MFW or REBUG CFWs
 Patch Self(s) to Enable FSELFS on CEX
+
 ======================================================================
 
 3.55 base ofw - 0.1 - initial build
