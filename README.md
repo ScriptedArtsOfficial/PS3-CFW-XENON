@@ -1,6 +1,6 @@
 PS3Fw XENON - Located at; https://drive.google.com/open?id=1LXZmbSr5WaTfSXGUIdZ-z6Y0HlZIZwFZ
 This is a Custom Firmware for the Playstation 3 that I am working on currently, it is in alpha stage (It is a full CFW but currently 
-resides as a CEX only with rogero patterns. 
+resides as a CEX only with rogero patterns. It is due to be updated (Will reach v1.00 at least) And, will recieve customisation, hopefully will port Cobra payloads and possible DEX varients as well but all really depends on my time as I am busy a lot of the time, and will be working on PS4 predominently within the console scene!
 
 ============================================================================
 
