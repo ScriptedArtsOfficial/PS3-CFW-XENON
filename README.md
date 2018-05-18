@@ -1,14 +1,17 @@
-# PS3-CFW-XENON - Located at; https://drive.google.com/open?id=1LXZmbSr5WaTfSXGUIdZ-z6Y0HlZIZwFZ
+PS3Fw XENON - Located at; https://drive.google.com/open?id=1LXZmbSr5WaTfSXGUIdZ-z6Y0HlZIZwFZ
 This is a Custom Firmware for the Playstation 3 that I am working on currently, it is in alpha stage (It is a full CFW but currently 
 resides as a CEX only with rogero patterns. 
 
 ============================================================================
+
 4.82 V0.11a - Xenon Firmware - By ScriptedArts / OneKubbYT
+
 ============================================================================
 NEW FEATURE'S; 
 
 Check out my other work and information
 on my work on PSX scene at> www.facebook.com/ScriptedArts1337
+
 ============================================================================
 Changelog; 
 
