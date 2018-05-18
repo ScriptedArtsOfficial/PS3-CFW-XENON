@@ -49,8 +49,9 @@ Re-enable GAMEBOOT sound and animation on 3.00+ MFW
   Patch game_ext_plugin.sprx to re-enable gameboot
 
 Enable FSELFs on CEX CFW / MFW or REBUG CFWs
-  Patch self(s) to enable FSELFs on CEX
+Patch Self(s) to Enable FSELFS on CEX
 ======================================================================
+
 3.55 base ofw - 0.1 - initial build
 Patch LV0 LDRS to disable ECDSA checks in ALL LV0-loaders
 Patch LV0 appldr to disable lv2 memory protection
@@ -63,6 +64,7 @@ patch LV1 to to allow mapping of any memory area (needed for LV2 Poke)
          Patch SPP verifier to disable ECDSA check
          Patch SPU token processor to disable ECDSA checl
 VSH patched with rogero patches
-Patched to allow installation / running of unsigned/Debug packages
+Patched to allow installation / running of unsigned/Debug packages 
 Renabled Gameboot sound and animation on 3.00+
+
 ======================================================================
