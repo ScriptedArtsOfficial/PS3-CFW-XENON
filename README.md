@@ -17,17 +17,32 @@ Updates; 4.83 - encountered Errors but installed fine / Still QA flagged /
 Unknown issue, Build log lost, but I remember it mostly &
 have created a "Patches" picture in the 4.83 (For Debugging.) folder in the
 Gdrive link. (Do not install this as I have been stuck on 4.83 since I did, 
-I keep recieving errors when trying to run most of my packages / install any
+I keep recieving the following errors;
+
+Whilst installing a CFW or OFW from the XMB
+8002f957 update debug on
+80029c9c update debug off
+
+And I encounter a 80010017 error when I try to run my pkgs..
+(I have tried running a disc, It worked perfectly, So I am unsure of the issue)
+I cannot try recovery mode atm as I dont have a native ps3 controller, I will update
+when I do.
+
+when trying to run most of my packages / install any
 firmware (I am not trying 4.83 OFW. I am also still QA flagged, so I am 
 sure there is a fix for this, Thus I am uploading the 4.83 pup / decrypted 
-pup so that if you wish you may have a look and commit any audits you see fit,
+pup so that if you wish you may have a look.
 
 I will update if I fix it / figure out what is wrong, but until then I cannot
 continue building the 4.83 CFW as my unit is currently faulty, And its the 
-the only unit I have available! 
+the only unit I have available! and I dont want to release anything I cant
+test myself first (Except this for any devs. 4.83 is currently NOT FOR RELEASE.
+Ignore it. Unless you are looking to investigate this issue, and have a method
+to easily reverse the effects such as a hardware flasher / FSM. all dependant on
+the current situation of course. 
 
-I can still unhide Debug settings / Install pkg files under settings, pkgs
-install fine, only encountered errors with 2, I think due to mismatch, but 
+I can still unhide Debug settings / Install pkg files under settings with
+the button combo, pkgs install fine, only encountered errors with 2, but 
 anyway, I or someone can hopefully fix this mess, Its like a CustomOFW at 
 this rate xD
 
