@@ -7,15 +7,35 @@ resides as a CEX only with rogero patterns. It is due to be updated (Will reach 
 4.82 V0.11a - Xenon Firmware - By ScriptedArts / OneKubbYT
 
 ============================================================================
-NEW FEATURE'S; 
+NEW FEATURE'S; todo
 
 Check out my other work and information
 on my work on PSX scene at> www.facebook.com/ScriptedArts1337
 
 ============================================================================
+Updates; 4.83 - encountered Errors but installed fine / Still QA flagged /
+Unknown issue, Build log lost, but I remember it mostly &
+have created a "Patches" picture in the 4.83 (For Debugging.) folder in the
+Gdrive link. (Do not install this as I have been stuck on 4.83 since I did, 
+I keep recieving errors when trying to run most of my packages / install any
+firmware (I am not trying 4.83 OFW. I am also still QA flagged, so I am 
+sure there is a fix for this, Thus I am uploading the 4.83 pup / decrypted 
+pup so that if you wish you may have a look and commit any audits you see fit,
+
+I will update if I fix it / figure out what is wrong, but until then I cannot
+continue building the 4.83 CFW as my unit is currently faulty, And its the 
+the only unit I have available! 
+
+I can still unhide Debug settings / Install pkg files under settings, pkgs
+install fine, only encountered errors with 2, I think due to mismatch, but 
+anyway, I or someone can hopefully fix this mess, Its like a CustomOFW at 
+this rate xD
+
+*cough* pseudobrick *cough* ;)
+============================================================================
 Changelog; 
 
-0.11 (Initial Build)
+4.82 - 0.11 (Initial Build)
 PATCH: XMB - Miscellaneous
 Add "Install Package Files" icon to the XMB Game Category
 Add "/app_home" icon to the XMB Game Category
@@ -74,7 +94,7 @@ Patch Self(s) to Enable FSELFS on CEX,
 
 ======================================================================
 
-3.55 base ofw - 0.1 - initial build
+3.55 - 0.11 - initial build
 
 LV0 LDRS to disable ECDSA checks in ALL LV0-loaders, 
 
