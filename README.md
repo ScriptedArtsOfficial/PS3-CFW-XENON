@@ -2,7 +2,6 @@
 PS3Fw XENON - Located at; 
 https://drive.google.com/open?id=1LXZmbSr5WaTfSXGUIdZ-z6Y0HlZIZwFZ
 
-============================================================================
 This is a Custom Firmware for the Playstation 3 that I am working on currently,
 it is in alpha stage (It is a full CFW but currently 
 resides as a CEX only with rogero patterns. It is due to be updated
