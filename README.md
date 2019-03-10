@@ -1,13 +1,16 @@
 
 PS3Fw XENON - Located at; Reuploading
 
-This is a Custom Firmware for the Playstation 3 that I am working on currently,
-it is in alpha stage (It is a full CFW but currently 
-resides as a CEX only with rogero patterns. It is due to be updated
+This is a Custom Firmware for the Playstation 3 
+that I am working on currently,
+it is in alpha stage 
+(It is a full CFW but currently resides as a CEX only with rogero patterns)
+It is due to be updated
 (Will reach v1.00 at least) And, will recieve customisation,
 hopefully will port Cobra payloads and possible DEX varients as well,
 but all really depends on my time as I am busy a lot of the time,
 and will be working on PS4 predominently within the console scene!
+
 ============================================================================
 4.82 V0.11a - Xenon Firmware - By ScriptedArts / OneKubbYT
 ============================================================================
