@@ -32,19 +32,19 @@ folder in the Gdrive link.
 (Do not install this as I have been stuck on 4.83 since I did, 
 I keep recieving the following errors;
 
-Whilst installing a CFW or OFW from the XMB
+- Whilst installing a CFW or OFW from the XMB
 8002f957 update debug on
 80029c9c update debug off
 update through Recovery mode did not work on this fw, managed to install 4.84.2 Hybrid Firmware, 
 and Rejailbreak.
 
-I was still QA flagged, so I am 
+- I was still QA flagged, so I am 
 sure there is a fix for this, Thus I am uploading the 4.83 pup / decrypted 
 pup so that if you wish you may have a look.
 Otherwise, I will update if I fix it / figure out what is wrong, but until then
 I will just start 4.83 from scratch.
 
-I dont want to release anything I cant test myself first 
+- I dont want to release anything I cant test myself first 
 (Except this for any devs. 4.83 is currently NOT FOR RELEASE.
 Ignore it. Unless you are looking to investigate this issue, and have a method
 to easily reverse the effects such as a hardware flasher / FSM.
@@ -52,12 +52,14 @@ all dependant on the current situation/issue of course.
 
 *cough* pseudobrick *cough* ;)
 ============================================================================
+
 Changelog; 
-4.82 V0.11a - Xenon Firmware - By ScriptedArts / OneKubbYT
+
+- 4.82 V0.11a - Xenon Firmware - By ScriptedArts / OneKubbYT
 
 PATCHES:
 
-PATCH: XMB - Miscellaneous
+- PATCH: XMB - Miscellaneous
 Add "Install Package Files" icon to the XMB Game Category
 Add "/app_home" icon to the XMB Game Category
 
@@ -115,7 +117,7 @@ Patch Self(s) to Enable FSELFS on CEX,
 
 ======================================================================
 
-3.55 - 0.11 - initial build
+- 3.55 - 0.11 - initial build
 
 LV0 LDRS to disable ECDSA checks in ALL LV0-loaders, 
 
