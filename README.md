@@ -1,9 +1,10 @@
 
-PS3Fw XENON - Located at; Reuploading
+PS3 Custom Firmware = XENON - 
+Located at; Reuploading soon due to updates to code and more.
 
 This is a Custom Firmware for the Playstation 3 
-that I am working on currently,
-it is in alpha stage 
+that I am working on,
+currently it is in alpha stage. 
 (It is a full CFW but currently resides as a CEX only with rogero patterns)
 It is due to be updated
 (Will reach v1.00 at least) And, will recieve customisation,
@@ -12,18 +13,23 @@ but all really depends on my time as I am busy a lot of the time,
 and will be working on PS4 predominently within the console scene!
 
 ============================================================================
-4.82 V0.11a - Xenon Firmware - By ScriptedArts / OneKubbYT
-============================================================================
-NEW FEATURE'S; todo
 
 Check out my other work and information
 on my work on PSX scene at> www.facebook.com/ScriptedArts1337
 
 ============================================================================
-Updates; 4.83 - encountered Errors but installed fine / Still QA flagged /
-Unknown issue, Build log lost, but I remember it mostly &
-have created a "Patches" picture in the 4.83 (For Debugging.) folder in the
-Gdrive link. (Do not install this as I have been stuck on 4.83 since I did, 
+Updates; 
+
+4.84
+I am in the process of planning on working on a 4.84 CEX Fw, I will post more information soon.
+
+4.83 
+- encountered Errors but installed fine / Still QA flagged /
+Unknown issue, Build log lost,
+but I remember it mostly &
+have created a "Patches" picture in the 4.83 (For Debugging.)
+folder in the Gdrive link. 
+(Do not install this as I have been stuck on 4.83 since I did, 
 I keep recieving the following errors;
 
 Whilst installing a CFW or OFW from the XMB
@@ -32,33 +38,28 @@ Whilst installing a CFW or OFW from the XMB
 
 And I encounter a 80010017 error when I try to run my pkgs..
 (I have tried running a disc, It worked perfectly, So I am unsure of the issue)
-I cannot try recovery mode atm as I dont have a native ps3 controller, 
-I will update
-when I do.
+update through Recovery mode did not work on this fw, managed to install 4.84.2 Hybrid Firmware, 
+and Rejailbreak.
 
-when trying to run most of my packages / install any
-firmware (I am not trying 4.83 OFW. I am also still QA flagged, so I am 
+I was still QA flagged, so I am 
 sure there is a fix for this, Thus I am uploading the 4.83 pup / decrypted 
 pup so that if you wish you may have a look.
+Otherwise, I will update if I fix it / figure out what is wrong, but until then
+I will just start 4.83 from scratch.
 
-I will update if I fix it / figure out what is wrong, but until then I cannot
-continue building the 4.83 CFW as my unit is currently faulty, And its the 
-the only unit I have available! and I dont want to release anything I cant
-test myself first (Except this for any devs. 4.83 is currently NOT FOR RELEASE.
+I dont want to release anything I cant test myself first 
+(Except this for any devs. 4.83 is currently NOT FOR RELEASE.
 Ignore it. Unless you are looking to investigate this issue, and have a method
-to easily reverse the effects such as a hardware flasher / FSM. all dependant on
-the current situation of course. 
-
-I can still unhide Debug settings / Install pkg files under settings with
-the button combo, pkgs install fine, only encountered errors with 2, but 
-anyway, I or someone can hopefully fix this mess, Its like a CustomOFW at 
-this rate xD
+to easily reverse the effects such as a hardware flasher / FSM.
+all dependant on the current situation/issue of course. 
 
 *cough* pseudobrick *cough* ;)
 ============================================================================
 Changelog; 
+4.82 V0.11a - Xenon Firmware - By ScriptedArts / OneKubbYT
 
-4.82 - 0.11 (Initial Build)
+PATCHES:
+
 PATCH: XMB - Miscellaneous
 Add "Install Package Files" icon to the XMB Game Category
 Add "/app_home" icon to the XMB Game Category
