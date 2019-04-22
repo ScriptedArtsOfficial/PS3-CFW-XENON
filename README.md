@@ -35,9 +35,6 @@ I keep recieving the following errors;
 Whilst installing a CFW or OFW from the XMB
 8002f957 update debug on
 80029c9c update debug off
-
-And I encounter a 80010017 error when I try to run my pkgs..
-(I have tried running a disc, It worked perfectly, So I am unsure of the issue)
 update through Recovery mode did not work on this fw, managed to install 4.84.2 Hybrid Firmware, 
 and Rejailbreak.
 
