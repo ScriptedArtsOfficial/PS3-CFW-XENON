@@ -20,37 +20,13 @@ on my work on PSX scene at> www.facebook.com/ScriptedArts1337
 ============================================================================
 Updates; 
 
+============================================================================
 4.84
-I am in the process of planning on working on a 4.84 CEX Fw, I will post more information soon.
+I am in the process of planning on working on a 4.84 CEX Fw, 
+I will post more information soon.
 
-4.83 
-- encountered Errors but installed fine / Still QA flagged /
-Unknown issue, Build log lost,
-but I remember it mostly &
-have created a "Patches" picture in the 4.83 (For Debugging.)
-folder in the Gdrive link. 
-(Do not install this as I have been stuck on 4.83 since I did, 
-I keep recieving the following errors;
-
-- Whilst installing a CFW or OFW from the XMB
-8002f957 update debug on
-80029c9c update debug off
-update through Recovery mode did not work on this fw, managed to install 4.84.2 Hybrid Firmware, 
-and Rejailbreak.
-
-- I was still QA flagged, so I am 
-sure there is a fix for this, Thus I am uploading the 4.83 pup / decrypted 
-pup so that if you wish you may have a look.
-Otherwise, I will update if I fix it / figure out what is wrong, but until then
-I will just start 4.83 from scratch.
-
-- I dont want to release anything I cant test myself first 
-(Except this for any devs. 4.83 is currently NOT FOR RELEASE.
-Ignore it. Unless you are looking to investigate this issue, and have a method
-to easily reverse the effects such as a hardware flasher / FSM.
-all dependant on the current situation/issue of course. 
-
-*cough* pseudobrick *cough* ;)
+4.83
+Cancelled as is irrelevent
 ============================================================================
 
 Changelog; 
