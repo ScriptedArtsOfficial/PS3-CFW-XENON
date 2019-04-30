@@ -10,30 +10,31 @@ It is due to be updated
 (Will reach v1.00 at least) And, will recieve customisation,
 hopefully will port Cobra payloads and possible DEX varients as well,
 but all really depends on my time as I am busy a lot of the time,
-and will be working on PS4 predominently within the console scene!
-
+I will be working on PS4 predominently within the console scene!
 ============================================================================
 
 Check out my other work and information
 on my work on PSX scene at> www.facebook.com/ScriptedArts1337
 
-============================================================================
-Updates; 
 
+Updates; 
 ============================================================================
 4.84
 I am in the process of planning on working on a 4.84 CEX Fw, 
 I will post more information soon.
+============================================================================
 
-4.83
-Cancelled as is irrelevent
+4.83 - Cancelled as is irrelevent
 ============================================================================
 
 Changelog; 
+============================================================================
 
 - 4.82 V0.11a - Xenon Firmware - By ScriptedArts / OneKubbYT
+============================================================================
 
 PATCHES:
+============================================================================
 
 - PATCH: XMB - Miscellaneous
 Add "Install Package Files" icon to the XMB Game Category
@@ -91,9 +92,11 @@ Re-enable GAMEBOOT sound and animation on 3.00+ MFW,
   
 Patch Self(s) to Enable FSELFS on CEX,
 
+Will post more update's soon
 ======================================================================
 
-- 3.55 - 0.11 - initial build
+3.55 - 0.11 - initial build
+============================================================================
 
 LV0 LDRS to disable ECDSA checks in ALL LV0-loaders, 
 
@@ -121,4 +124,5 @@ Patched to allow installation / running of unsigned/Debug packages,
 
 Renabled Gameboot sound and animation on 3.00+,
 
+Creds to the Rebug / Cobra team's, Ferrox, Habib, Rogero, and the rest
 ======================================================================
